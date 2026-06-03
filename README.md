@@ -32,7 +32,6 @@ Department of System Management and Information Security
 Samarkand State University, Samarkand, Uzbekistan
 Email: [sazzad69@gmail.com](mailto:sazzad69@gmail.com)
 
-\---
 
 # Abstract
 
@@ -42,7 +41,6 @@ This repository presents a Multi-Source Event Correlation Framework that combine
 
 The implementation demonstrates how machine learning and continuous trust evaluation can be integrated to improve insider threat detection and risk-aware access control.
 
-\---
 
 # Key Features
 
@@ -66,7 +64,6 @@ Threat visualization and analytics
 
 Reproducible research implementation
 
-\---
 
 # System Architecture
 
@@ -98,7 +95,6 @@ Zero Trust Risk Engine
 Allow / Challenge / Block
 ```
 
-\---
 
 # Dataset
 
@@ -116,7 +112,6 @@ The CERT dataset contains enterprise user activity logs collected from organizat
 
 The current implementation focuses primarily on email-based behavioral analysis while maintaining compatibility with future multi-source extensions.
 
-\---
 
 ## Dataset Statistics
 
@@ -128,7 +123,6 @@ The current implementation focuses primarily on email-based behavioral analysis 
 |Observation Period|February 2010 – June 2010|
 |Event Source|Email Activities|
 
-\---
 
 # Methodology
 
@@ -155,13 +149,11 @@ where:
 * User identifier normalization
 * Event standardization
 
-\---
 
 ## Step 2: User-Based Event Aggregation
 
 Events are grouped according to individual users and sorted chronologically to construct behavioral histories.
 
-\---
 
 ## Step 3: Sliding Window Segmentation
 
@@ -180,7 +172,6 @@ Window definition:
 W(u,k) = {eᵢ | tᵢ ∈ \[kΔ, kΔ + Tw]}
 ```
 
-\---
 
 ## Step 4: Behavioral Feature Extraction
 
@@ -207,7 +198,6 @@ X(u,k) = \[Fauth, Ffile, Femail, Fweb, Fcorr]
 * Email activity rate
 * Temporal activity patterns
 
-\---
 
 ## Step 5: Machine Learning-Based Threat Assessment
 
@@ -224,7 +214,6 @@ where:
 * 0 = benign behavior
 * 1 = highly suspicious behavior
 
-\---
 
 ## Step 6: Zero Trust Risk Scoring
 
@@ -254,7 +243,6 @@ P(u,k) ≥ τh
    Block Access
 ```
 
-\---
 
 # Interactive Dashboard
 
@@ -279,7 +267,6 @@ The repository includes an interactive Gradio-based dashboard for real-time beha
 * Behavioral Feature Summary
 * Risk Gauge Visualization
 
-\---
 
 # Project Structure
 
@@ -311,7 +298,6 @@ IAM-ZeroTrust-Framework/
     └── dashboard\_preview.png
 ```
 
-\---
 
 # Installation
 
@@ -324,7 +310,7 @@ git clone https://github.com/mushfique98/A-Multi-Source-Event-Correlation-Framew
 Move into the project folder:
 
 ```bash
-cd YOUR\_REPOSITORY
+cd A-Multi-Source-Event-Correlation-Framework-for-IAM-Security
 ```
 
 Install dependencies:
@@ -333,7 +319,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-\---
 
 # Required Libraries
 
@@ -348,7 +333,6 @@ gradio
 pickle
 ```
 
-\---
 
 # Running the Project
 
@@ -361,7 +345,7 @@ jupyter notebook
 Open:
 
 ```text
-md\_1.ipynb
+md_1.ipynb
 ```
 
 and execute all cells sequentially.
@@ -379,13 +363,11 @@ The framework generates:
 * Confusion matrices
 * Security monitoring visualizations
 
-\---
 
 # Reproducibility
 
 All preprocessing scripts, feature extraction procedures, threat scoring methods, Zero Trust decision mechanisms, and dashboard components are included in this repository to facilitate reproducible research and future extensions.
 
-\---
 
 # Future Work
 
@@ -398,7 +380,6 @@ Future enhancements include:
 * Real-time SIEM integration
 * Explainable AI (XAI) support
 
-\---
 
 # Citation
 
@@ -414,13 +395,11 @@ Using Machine Learning and Zero Trust Principles.
 2026.
 ```
 
-\---
 
 # License
 
 This project is released for academic, educational, and research purposes.
 
-\---
 
 # Acknowledgements
 
