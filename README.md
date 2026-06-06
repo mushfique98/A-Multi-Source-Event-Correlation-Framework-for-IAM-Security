@@ -12,10 +12,10 @@ Department of System Management and Information Security
 Samarkand State University, Samarkand, Uzbekistan
 Email: [mehriddinnur@gmail.com](mailto:mehriddinnur@gmail.com)
 
-**Mohammad Shafiqul Islam**
-Department of International Relations
-University of Dhaka, Dhaka, Bangladesh
-Email: [adshafiqul@gmail.com](mailto:adshafiqul@gmail.com)
+**Dr. Aswani Kumar Cherukuri**
+School of Computer Science Engineering and Information Systems
+Vellore Institute of Technology (VIT), Vellore 632014, India
+Email: [cherukuri@acm.org](mailto:cherukuri@acm.org)
 
 **Sazzad Hossain**
 Department of System Management and Information Security
