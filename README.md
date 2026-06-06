@@ -7,20 +7,10 @@ Department of System Management and Information Security
 Samarkand State University, Samarkand, Uzbekistan
 Email: [mushfique98@gmail.com](mailto:mushfique98@gmail.com)
 
-**Hasan-Al-Monsur**
-ACNABIN Chartered Accountants
-Dhaka, Bangladesh
-Email: [hasanalmonsur@gmail.com](mailto:hasanalmonsur@gmail.com)
-
 **Nurmamatov Mekhriddin**
 Department of System Management and Information Security
 Samarkand State University, Samarkand, Uzbekistan
 Email: [mehriddinnur@gmail.com](mailto:mehriddinnur@gmail.com)
-
-**Faisal Reza**
-Department of ELP
-University of North Carolina, USA
-Email: [juristsyndicate@gmail.com](mailto:juristsyndicate@gmail.com)
 
 **Mohammad Shafiqul Islam**
 Department of International Relations
